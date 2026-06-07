@@ -1,0 +1,13 @@
+{
+  "name": "engineering",
+  "owner": {
+    "name": "corticalstack"
+  },
+  "plugins": [
+    {
+      "name": "engineering",
+      "source": ".",
+      "description": "Engineering skills (Terraform, FastAPI, MCP server development, modern Python, exploratory data analysis)."
+    }
+  ]
+}

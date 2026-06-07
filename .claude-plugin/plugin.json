@@ -1,0 +1,19 @@
+{
+  "name": "engineering",
+  "version": "0.1.0",
+  "description": "Engineering skills for Claude Code: Terraform/IaC, FastAPI, MCP server development, modern Python, and scientific exploratory data analysis.",
+  "author": {
+    "name": "corticalstack"
+  },
+  "homepage": "https://github.com/corticalstack/engineering",
+  "repository": "https://github.com/corticalstack/engineering",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "engineering",
+    "iac",
+    "python",
+    "agent-skills"
+  ],
+  "skills": "./.claude/skills/"
+}
